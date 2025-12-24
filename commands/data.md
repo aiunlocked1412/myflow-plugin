@@ -1,5 +1,5 @@
 ---
-description: 📊 สร้าง Data Flow Diagram
+description: 📊 Generate Data Flow Diagram
 allowed-tools: Read, Write, Edit, Bash
 ---
 

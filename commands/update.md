@@ -1,5 +1,5 @@
 ---
-description: 🔄 อัพเดท Analysis - ดูเฉพาะสิ่งที่เปลี่ยนแปลงตั้งแต่ครั้งก่อน
+description: 🔄 Update Analysis - show only changes since last run
 allowed-tools: Read, Write, Edit, Bash
 ---
 

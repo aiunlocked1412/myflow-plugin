@@ -1,5 +1,5 @@
 ---
-description: 🏗️ สร้าง System Architecture Flowchart
+description: 🏗️ Generate System Architecture Flowchart
 allowed-tools: Read, Write, Edit, Bash
 ---
 

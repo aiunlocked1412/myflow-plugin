@@ -1,5 +1,5 @@
 ---
-description: 🔍 วิเคราะห์โปรเจกต์ทั้งหมด สร้าง Flowcharts + ER Diagram
+description: 🔍 Analyze project, generate Flowcharts + ER Diagram
 allowed-tools: Read, Write, Edit, Bash
 ---
 

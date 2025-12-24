@@ -1,5 +1,5 @@
 ---
-description: 👤 สร้าง User Journey/User Flow Diagram
+description: 👤 Generate User Journey/User Flow Diagram
 allowed-tools: Read, Write, Edit, Bash
 ---
 

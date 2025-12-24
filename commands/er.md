@@ -1,5 +1,5 @@
 ---
-description: 🗄️ สร้าง ER Diagram จาก Database Models
+description: 🗄️ Generate ER Diagram from Database Models
 allowed-tools: Read, Write, Edit, Bash
 ---
 
