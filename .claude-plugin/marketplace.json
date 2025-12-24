@@ -1,12 +1,22 @@
 {
-  "owner": "aiunlocked1412",
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "myflow-marketplace",
-  "description": "🔄 My Flow - Generate Flowcharts & Diagrams from your codebase",
+  "version": "1.0.0",
+  "description": "My Flow - Generate Flowcharts & Diagrams from your codebase",
+  "owner": {
+    "name": "AI Unlocked",
+    "email": "aiunlockinnovations@gmail.com"
+  },
   "plugins": [
     {
       "name": "myflow",
-      "description": "🔄 Generate beautiful Flowcharts, ER Diagrams, System Architecture from your codebase automatically",
-      "version": "1.0.0"
+      "description": "Generate beautiful Flowcharts, ER Diagrams, System Architecture from your codebase automatically",
+      "version": "1.0.0",
+      "author": {
+        "name": "AI Unlocked"
+      },
+      "source": ".",
+      "category": "productivity"
     }
   ]
 }
