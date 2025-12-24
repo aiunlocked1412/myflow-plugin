@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "myflow-marketplace",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My Flow - Generate Flowcharts & Diagrams from your codebase",
   "owner": {
     "name": "AI Unlocked",
@@ -11,7 +11,7 @@
     {
       "name": "myflow",
       "description": "Generate beautiful Flowcharts, ER Diagrams, System Architecture from your codebase automatically",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "AI Unlocked"
       },
