@@ -29,10 +29,10 @@
 
 ```bash
 # Clone plugin to your plugins directory
-git clone https://github.com/AiUnlocked/myflow-plugin.git ~/.claude/plugins/myflow-plugin
+git clone https://github.com/aiunlocked1412/myflow-plugin.git ~/.claude/plugins/myflow-plugin
 
 # Or clone to test locally first
-git clone https://github.com/AiUnlocked/myflow-plugin.git
+git clone https://github.com/aiunlocked1412/myflow-plugin.git
 claude --plugin-dir ./myflow-plugin
 ```
 
@@ -42,8 +42,10 @@ claude --plugin-dir ./myflow-plugin
 # Open Claude Code
 claude
 
-# Add plugin from GitHub
-/plugin add github:AiUnlocked/myflow-plugin
+# Add marketplace from GitHub
+/plugin
+# Tab to "Marketplaces" → "+ Add Marketplace"
+# Enter: aiunlocked1412/myflow-plugin
 ```
 
 ### Option 3: Project-specific Installation
@@ -51,7 +53,7 @@ claude
 ```bash
 # Install for current project only
 cd your-project
-git clone https://github.com/AiUnlocked/myflow-plugin.git .claude/plugins/myflow-plugin
+git clone https://github.com/aiunlocked1412/myflow-plugin.git .claude/plugins/myflow-plugin
 ```
 
 ### 📍 Installation Paths
@@ -231,10 +233,10 @@ erDiagram
 
 ```bash
 # Clone plugin ไปยัง plugins directory
-git clone https://github.com/AiUnlocked/myflow-plugin.git ~/.claude/plugins/myflow-plugin
+git clone https://github.com/aiunlocked1412/myflow-plugin.git ~/.claude/plugins/myflow-plugin
 
 # หรือ clone มาทดสอบก่อน
-git clone https://github.com/AiUnlocked/myflow-plugin.git
+git clone https://github.com/aiunlocked1412/myflow-plugin.git
 claude --plugin-dir ./myflow-plugin
 ```
 
@@ -244,8 +246,10 @@ claude --plugin-dir ./myflow-plugin
 # เปิด Claude Code
 claude
 
-# เพิ่ม plugin จาก GitHub
-/plugin add github:AiUnlocked/myflow-plugin
+# เพิ่ม marketplace จาก GitHub
+/plugin
+# กด Tab ไปที่ "Marketplaces" → "+ Add Marketplace"
+# ใส่: aiunlocked1412/myflow-plugin
 ```
 
 ### วิธีที่ 3: ติดตั้งเฉพาะโปรเจกต์
@@ -253,7 +257,7 @@ claude
 ```bash
 # ติดตั้งสำหรับโปรเจกต์ปัจจุบันเท่านั้น
 cd your-project
-git clone https://github.com/AiUnlocked/myflow-plugin.git .claude/plugins/myflow-plugin
+git clone https://github.com/aiunlocked1412/myflow-plugin.git .claude/plugins/myflow-plugin
 ```
 
 ### 📍 Paths การติดตั้ง

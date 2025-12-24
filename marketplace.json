@@ -11,6 +11,7 @@
         "name": "AI Unlocked",
         "url": "https://aiunlock.co"
       },
+      "repository": "https://github.com/aiunlocked1412/myflow-plugin",
       "source": {
         "type": "local",
         "path": "."
