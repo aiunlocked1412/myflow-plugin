@@ -1,0 +1,10 @@
+{
+  "name": "myflow",
+  "description": "🔄 สร้าง Flowchart สวยงามจากโปรเจกต์ - System Flow, User Flow, Data Flow, ER Diagram",
+  "version": "1.0.0",
+  "author": {
+    "name": "AI Unlocked"
+  },
+  "homepage": "https://aiunlock.co",
+  "keywords": ["flowchart", "diagram", "mermaid", "documentation", "system-design", "er-diagram"]
+}
